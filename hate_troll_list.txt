@@ -161,7 +161,6 @@ arius_braucht_polizei
 arius_ruft_helikopter
 ariusbandscheibensimulant
 arktosderboehseschneemann
-ArktosDerBoehseSchneemann
 armin_stillers
 armoracle
 armorymasterinarms
