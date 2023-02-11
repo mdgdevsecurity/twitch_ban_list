@@ -1134,6 +1134,7 @@ izmet_iz
 izmet_izmet
 izmet_izmet_on
 izmet_izmet_online
+izmet_kuzeng
 izmet_lonely
 izmet_nanami
 izmet_o
