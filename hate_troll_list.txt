@@ -1407,6 +1407,7 @@ kaa_sette3
 kaa_sette4
 kaa_zette_computer
 kaaan_ackenx
+kaazett
 kaazett_mac
 kaazett_windows
 kaazett0
