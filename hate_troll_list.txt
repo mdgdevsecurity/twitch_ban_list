@@ -272,6 +272,7 @@ aura_necropolis
 aurxmlol
 arenjite
 ausgemerkelt181
+ausgestopfter_marder
 ausgestopfter_marder2
 auslaendermagichnicht
 aussengelaenderfan
@@ -661,6 +662,7 @@ dergebanntelukas42032
 derheiligeauftragsmarder
 derjayel
 derjenische
+derkamiko
 derlunsmaster92
 derm0gli
 dermaaurice
